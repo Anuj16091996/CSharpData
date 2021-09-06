@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Code_Day4.1, Configuration: Debug Any CPU ------
+1>  Code_Day4.1 -> C:\Users\isi.751FJW2\Desktop\c sharp\First_Day\code_day_1\Solution\Code_Day4.1\bin\Debug\Code_Day4.1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
